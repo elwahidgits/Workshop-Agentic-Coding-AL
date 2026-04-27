@@ -1,0 +1,42 @@
+{
+  "id": "84bfe890-d56d-4740-9645-9a183cbd8f97",
+  "name": "Rental Car Management Tests",
+  "publisher": "Katson.com",
+  "brief": "Tests for the Rental Car Management extension",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "name": "Tests-TestLibraries",
+      "publisher": "Microsoft",
+      "version": "25.0.0.0"
+    },
+    {
+      "id": "b295a083-126a-4ca4-8f7e-dec1f394c2ff",
+      "name": "Rental Car Management",
+      "publisher": "Katson",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 60200,
+      "to": 60249
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0"
+}
