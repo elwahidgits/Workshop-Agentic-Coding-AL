@@ -22,3 +22,5 @@ cache_*
 .AL-Go/node_modules/
 .AL-Go/package.json
 .AL-Go/package-lock.json
+.bctb-config.json
+.vscode/
