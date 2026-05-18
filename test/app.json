@@ -12,10 +12,10 @@
   "logo": "",
   "dependencies": [
     {
-      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
-      "name": "Tests-TestLibraries",
+      "id": "d852d5d2-a39d-4179-baeb-f99a19e32510",
+      "name": "Application Test Library",
       "publisher": "Microsoft",
-      "version": "25.0.0.0"
+      "version": "28.0.0.0"
     },
     {
       "id": "b295a083-126a-4ca4-8f7e-dec1f394c2ff",
