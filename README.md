@@ -37,4 +37,4 @@ Run the AL-Go local dev environment script to spin up a Business Central Docker 
 .\.AL-Go\localDevEnv.ps1
 ```
 
-Requires Docker Desktop running Windows containers. See `.AL-Go/localDevEnv.ps1` for all available parameters.
+Requires Docker Desktop running Windows containers. See `.AL-Go/localDevEnv.ps1` for all available parameters.# Workshop-Agentic-Coding-AL
