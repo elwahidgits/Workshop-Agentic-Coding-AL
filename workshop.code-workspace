@@ -4,6 +4,12 @@
             "path": ".AL-Go"
         },
         {
+            "path": ".cursor"
+        },
+        {
+            "path": ".github"
+        },
+        {
             "path": "specs"
         },
         {
@@ -11,6 +17,9 @@
         },
         {
             "path": "test"
+        },
+        {
+            "path": "D:\\Work\\external\\MSDyn365BC"
         }
     ],
     "settings": {}
